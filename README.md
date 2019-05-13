@@ -2,7 +2,7 @@
 
 ## Alpha Centauri C (en abrégé α Cen C, parfois ACC), ou en français Alpha du Centaure C, est le système planétaire le plus proche du système solaire au sein de la Voie lactée
 
-### Codez une fonction qui prend en paramtre une distance en année lumière et qui renvoie la distance en KM.
+### Codez une fonction qui prend en paramtre la distance qui nous sépare de proxima (en année lumière) et qui renvoie la distance en KM.
 
 ### https://fr.wikipedia.org/wiki/Ann%C3%A9e-lumi%C3%A8re
 
